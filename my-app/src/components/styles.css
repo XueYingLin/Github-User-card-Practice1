@@ -1,0 +1,13 @@
+img {
+    width: 300px;
+    border-radius: 50px;
+}
+
+.App {
+    background-color: aqua;
+    padding-top: 40px;
+}
+
+.text {
+    font-size: 30px;;
+}
